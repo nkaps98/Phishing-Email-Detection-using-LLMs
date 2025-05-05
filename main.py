@@ -19,7 +19,6 @@ os.environ["WANDB_MODE"] = "disabled"
 parser = argparse.ArgumentParser()
 parser.add_argument('--model_name', default="meta-llama/Meta-Llama-3-8B", type=str, help='LLM model name')  
 parser.add_argument('--use_finetuned', default=False, type=bool, help='if use finetuned model or not')
-parser.add_argument('--augment', default=True, type=bool, help='if to augment or not')
 parser.add_argument('--use_few_shot', default=True, type=bool, help='if to use few shot or not')
 parser.add_argument('--use_chain_of_thought', default=False, type=bool, help='if to use chain of thought or not')
 args = parser.parse_args()
