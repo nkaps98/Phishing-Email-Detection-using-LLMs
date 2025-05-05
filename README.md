@@ -91,20 +91,6 @@ This project is inspired by:
 
 * Lee, C. (2025). *Enhancing phishing email identification with large language models*. arXiv:2502.04759. [https://arxiv.org/abs/2502.04759](https://arxiv.org/abs/2502.04759)
 
-📌 **Citation**:
-
-```bibtex
-@misc{lee2025enhancingphishingemailidentification,
-      title={Enhancing Phishing Email Identification with Large Language Models}, 
-      author={Catherine Lee},
-      year={2025},
-      eprint={2502.04759},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2502.04759}, 
-}
-```
-
 ---
 
 ## 👩‍💻 Contributors
